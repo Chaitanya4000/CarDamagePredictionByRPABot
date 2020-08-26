@@ -10,3 +10,9 @@ Python
 4. Pandas
 5. Numpy
 6. Matplotlib
+
+Expected prediction outcome by CNN model:
+"Major Accident" or "Minor Accident"
+
+Expected outcome by RPA bot:
+Receive result from 

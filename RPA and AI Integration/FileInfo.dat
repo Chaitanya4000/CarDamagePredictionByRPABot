@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="CarInsurancePrediction.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/25/2020 23:54:33</Property>
+      <Property Name="RunDuration">00:00:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
